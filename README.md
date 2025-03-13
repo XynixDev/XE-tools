@@ -1,7 +1,7 @@
 # XE-tools
-# XE Tools 1.1.0v
+# XE Tools 1.1.2v
 
-XE Tools 1.1.0v is an advanced terminal tool that offers various functions such as IP analysis, random code generation, Discord webhooks, and many other useful features.
+XE Tools 1.1.2v is an advanced terminal tool that offers various functions such as IP analysis, random code generation, Discord webhooks, and many other useful features.
 
 ## 📥 Installation
 
@@ -35,7 +35,7 @@ To use XE Tools, follow these steps:
 ✅ **Proxy/IP Generator** – Generate random IP addresses
 
 ## ⚠️ Disclaimer
-XE Tools 1.1.0v is created solely for educational and administrative purposes. We are not responsible for any misuse of this software. Use at your own risk!
+XE Tools 1.1.2v is created solely for educational and administrative purposes. We are not responsible for any misuse of this software. Use at your own risk!
 
 ## 🔗 Join Our Community
 If you have any questions or want to stay updated, join our Discord:
