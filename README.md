@@ -1,5 +1,6 @@
 # XE-tools
 # XE Tools 1.1.2v
+![Zrzut ekranu 2025-03-13 172532](https://github.com/user-attachments/assets/68fc3298-d84f-4cae-9951-02cc9a8eb971)
 
 XE Tools 1.1.2v is an advanced terminal tool that offers various functions such as IP analysis, random code generation, Discord webhooks, and many other useful features.
 
