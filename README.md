@@ -1,6 +1,7 @@
 # XE-tools
 # XE Tools 1.1.2v
 ![Zrzut ekranu 2025-03-13 221000](https://github.com/user-attachments/assets/115b3a5d-aeb1-4def-bb50-9f7fdf96e49d)
+![Zrzut ekranu 2025-03-14 004616](https://github.com/user-attachments/assets/c6caf79d-4080-4e00-8322-b7f133b9abbc)
 
 
 
